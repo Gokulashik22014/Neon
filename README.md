@@ -34,11 +34,13 @@ export const config = {
 };
 ```
 ## Step 5: To get the above ID create the service in appwrite
-   ## 1 Create an accoutn
-   ## 2 Create a project copy the projectID
-   ## 3 Create a Database copy the DatabaseID
-   ## 4 Create a Storage copy the StorageID
-   ## 5 In database create two collections namely users and videos and copy their ID's
+
+   ### 1 Create an accoutn
+   ### 2 Create a project copy the projectID
+   ### 3 Create a Database copy the DatabaseID
+   ### 4 Create a Storage copy the StorageID
+   ### 5 In database create two collections namely `users` and `videos` and copy their ID's
+   
    # Appwrite Collections
 
 ## Videos Collection
@@ -60,6 +62,11 @@ export const config = {
 | avatar       | URL    | The URL of the avatar image   |
 | accountid    | String | The account ID of the user    |
 
-   
+### Once the setup is complete you can run the commanf 
+```bash
+npx expo start
+```
+You can run it in you application choise.
+
          
    
