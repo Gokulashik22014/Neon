@@ -62,11 +62,11 @@ export const config = {
 | avatar       | URL    | The URL of the avatar image   |
 | accountid    | String | The account ID of the user    |
 
-### Once the setup is complete you can run the commanf 
+### Once the setup is complete you can run the command
 ```bash
 npx expo start
 ```
-You can run it in you application choise.
+### You can run it in you application choise.
 
          
    
